@@ -76,3 +76,4 @@ class ProductList:
             tempProducts.pop(index)
             ProductList.products = tempProducts
 
+
