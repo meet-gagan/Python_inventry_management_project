@@ -75,3 +75,4 @@ class ProductList:
             index = self._searchProduct(pid)
             tempProducts.pop(index)
             ProductList.products = tempProducts
+
