@@ -30,5 +30,3 @@ class Product:
 
     def getPID(self):
         return self.__pid
-
-
